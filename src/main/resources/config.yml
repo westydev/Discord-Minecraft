@@ -1,0 +1,12 @@
+DiscordBot:
+   token: "bottoken"
+   appID: ""
+   guildID: ""
+   serverOwnerIDS: []
+Logging:
+   PlayerJoin:
+      enabled: false
+      channelID:
+   PlayerQuit:
+      enabled: false
+      channelID:
